@@ -1,0 +1,13 @@
+#header h1 a {
+	background-image: url(../img/logo.png);
+	display: block;
+	width: 200px;
+	height: 200px;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+#header {
+	margin: 20px 0;
+}
